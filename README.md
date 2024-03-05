@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img alt="senina4" src="https://avatars.githubusercontent.com/u/84493324?v=4">
+</p>
 
-<!--
-**senina4/senina4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## senina4's profile
 
-Here are some ideas to get you started:
+Welcome to my profile😘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my website: [senina4.github.io](https://senina4.github.io)
+
+<p align="center">
+  <img alt="senina4" src="https://github.com/senina4/senina4/assets/84493324/74f017fb-e34d-444f-82a7-d2b6bacfd690">
+</p>
