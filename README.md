@@ -8,6 +8,8 @@ Welcome to my profile😘
 
 Visit my website: [senina4.github.io](https://senina4.github.io)
 
+[My project status](https://github.com/users/senina4/projects/11/views/1)
+
 [![senina4’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senina4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![senina4's GitHub stats](https://github-readme-stats.vercel.app/api?username=senina4&show_icons=true&theme=radical)
